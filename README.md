@@ -11,7 +11,8 @@ If you've encountered a bug, please follow these steps:
 1. **Search for existing issues** – Before creating a new issue, check if the bug has already been reported.
 2. **Open a new issue** – Click on the [Issues tab](https://github.com/objection-lol/dev-objection-lol-bugs/issues) and select **New Issue**.
 3. **Provide detailed information** – It's recommended to provide the following details when reporting (at least the necessary information):
-   
+
+   - **Labels:** Select the appropriate label
    - **Bug Description:** Clearly describe the issue.
    - **Steps to Reproduce:** Provide a step-by-step guide on how to trigger the bug.
    - **Expected Behavior:** What should have happened?
