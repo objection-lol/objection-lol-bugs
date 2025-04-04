@@ -1,6 +1,6 @@
-# Dev objection.lol Bug Tracker
+# objection.lol Bug Tracker
 
-Welcome to the official **bug tracker** for [objection.lol](https://dev.objection.lol/)
+Welcome to the official **bug tracker** for [objection.lol](https://objection.lol/)
 
 ## 📌 Purpose
 This repository exists solely for reporting and tracking bugs related to the website.
@@ -9,7 +9,7 @@ This repository exists solely for reporting and tracking bugs related to the web
 If you've encountered a bug, please follow these steps:
 
 1. **Search for existing issues** – Before creating a new issue, check if the bug has already been reported.
-2. **Open a new issue** – Click on the [Issues tab](https://github.com/objection-lol/dev-objection-lol-bugs/issues) and select **New Issue**.
+2. **Open a new issue** – Click on the [Issues tab](https://github.com/objection-lol/objection-lol-bugs/issues) and select **New Issue**.
 3. **Provide detailed information** – It's recommended to provide the following details when reporting (at least the necessary information):
 
    - **Labels:** Select the appropriate label
@@ -22,5 +22,5 @@ If you've encountered a bug, please follow these steps:
 ## ❌ What Not to Report
 - Feature requests (This repository is for bug tracking only.)
 
-Thank you for helping improve [objection.lol](https://dev.objection.lol/) by reporting bugs! 🚀
+Thank you for helping improve [objection.lol](https://objection.lol/) by reporting bugs! 🚀
 
