@@ -3,7 +3,7 @@
 Welcome to the official **bug tracker** for [objection.lol](https://objection.lol/)
 
 ## 📌 Purpose
-This repository exists solely for reporting and tracking bugs related to the website.
+This repository exists for reporting and tracking bugs related to the website, you can also make suggestions to improve existing features or add new ones.
 
 ## 🚨 How to Report a Bug
 If you've encountered a bug, please follow these steps:
@@ -18,9 +18,6 @@ If you've encountered a bug, please follow these steps:
    - **Expected Behavior:** What should have happened?
    - **Actual Behavior:** What actually happened?
    - **Screenshots (if applicable):** Add images or recordings if they help illustrate the issue.
-
-## ❌ What Not to Report
-- Feature requests (This repository is for bug tracking only.)
 
 Thank you for helping improve [objection.lol](https://objection.lol/) by reporting bugs! 🚀
 
